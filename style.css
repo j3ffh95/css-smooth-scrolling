@@ -4,3 +4,13 @@ body {
   font-family: "Open Sanse", sans-serif;
   margin: 0;
 }
+
+section {
+  color: #fff;
+  font-size: 3em;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
