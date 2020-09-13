@@ -15,6 +15,26 @@ section {
   height: 100vh;
 }
 
+#page-1,
+nav a:nth-of-type(1) {
+  background-color: #8e44ad;
+}
+
+#page-2,
+nav a:nth-of-type(2) {
+  background-color: #e74c3c;
+}
+
+#page-3,
+nav a:nth-of-type(3) {
+  background-color: #2980b9;
+}
+
+#page-4,
+nav a:nth-of-type(4) {
+  background-color: #2ecc71;
+}
+
 nav {
   position: fixed;
   top: 50%;
